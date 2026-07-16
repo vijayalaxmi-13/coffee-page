@@ -29,7 +29,7 @@ A modern and responsive coffee shop landing page built using HTML and CSS. This 
 ## 🌐 Live Demo
 
 View the live website here:
-(Your GitHub Pages link)
+https://vijayalaxmi-13.github.io/coffee-page/
 
 ## 🎯 Learning Outcomes
 
